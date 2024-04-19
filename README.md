@@ -14,5 +14,5 @@
 <p align="center">
   <a href="instagram.com/atiyehh_hsr"><img src="https://skillicons.dev/icons?i=instagram" /> </a>
   <a href="mailto:atiyeh.hoshanfar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /> </a>
-  <a href="https://github.com/AtiyehHoshanfa"><img src="https://skillicons.dev/icons?i=github" /> </a>
+  <a href="https://github.com/AtiyehHoshanfar"><img src="https://skillicons.dev/icons?i=github" /> </a>
 </p>
